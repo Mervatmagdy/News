@@ -1,0 +1,18 @@
+{
+"news_app_title":"الأخبار",
+"category":"الفئات",
+"setting": "الاعدادات",
+"language":"اللغة",
+"english": "الإنجليزية",
+"arabic":  "العربية",
+"not_found":"لا يوجد",
+"business": "التجاريه",
+"entertainment":"الترفيه ",
+"general":"العام",
+"health": "الصحة",
+"science":"العلوم",
+"sports": "الرياضة",
+"technology":"التكنولوجيا",
+"pick":"اختر فئة اهتمامك",
+"source":"المصدر غير موجود"
+}

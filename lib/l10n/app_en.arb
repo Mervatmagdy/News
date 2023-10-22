@@ -1,0 +1,19 @@
+{
+"news_app_title":"News App",
+"category":"Categories",
+"setting": "Setting",
+"language":"Language",
+"english": "English",
+"arabic":  "Arabic",
+"not_found":"Not found",
+"business": "Business",
+"entertainment":"Entertainment",
+"general":"General",
+"health": "Health",
+"science":"Science",
+"sports": "Sports",
+"technology":"Technology",
+"pick":"Pick your category \n of interest",
+"source":"Source Not Founded"
+
+}
